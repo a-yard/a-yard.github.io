@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>newblog_start</title>
-      <link href="/2024/11/19/newblog-start/"/>
-      <url>/2024/11/19/newblog-start/</url>
-      
-        <content type="html"><![CDATA[<p><img src="https://acodeshebang.oss-cn-beijing.aliyuncs.com/blog/blue-city-1457299-wallhere.com.jpg" alt="blue-city-1457299-wallhere.com"></p><p><img src="https://acodeshebang.oss-cn-beijing.aliyuncs.com/blog/sand-ship-1429439-wallhere.com.jpg" alt="sand-ship-1429439-wallhere.com"></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>newblog_start</title>
-      <link href="/2024/11/19/test/"/>
-      <url>/2024/11/19/test/</url>
-      
-        <content type="html"><![CDATA[<p>test pages</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title>newblog_start</title>
+    <url>/2024/11/19/test/</url>
+    <content><![CDATA[<p>test pages</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>newblog_start</title>
+    <url>/2024/11/19/newblog-start/</url>
+    <content><![CDATA[<p><img src="https://acodeshebang.oss-cn-beijing.aliyuncs.com/blog/blue-city-1457299-wallhere.com.jpg" alt="blue-city-1457299-wallhere.com"></p>
+<p><img src="https://acodeshebang.oss-cn-beijing.aliyuncs.com/blog/sand-ship-1429439-wallhere.com.jpg" alt="sand-ship-1429439-wallhere.com"></p>
+]]></content>
+  </entry>
 </search>
