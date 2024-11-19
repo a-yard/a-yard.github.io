@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>newblog_start</title>
-    <url>/2024/11/19/newblog-start/</url>
-    <content><![CDATA[<p><img src="https://acodeshebang.oss-cn-beijing.aliyuncs.com/blog/blue-city-1457299-wallhere.com.jpg" alt="blue-city-1457299-wallhere.com"></p>
-<p><img src="https://acodeshebang.oss-cn-beijing.aliyuncs.com/blog/sand-ship-1429439-wallhere.com.jpg" alt="sand-ship-1429439-wallhere.com"></p>
+    <title>新的博客的开始</title>
+    <url>/2024/11/19/%E6%96%B0%E7%9A%84%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BC%80%E5%A7%8B/</url>
+    <content><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>在这个BLOG之前，我在2023-10-8创建了用wordpress的一个博客，但是这个博客我是用于内网使用，而这个博客是为了在外出时，我的M6不在身边时使用，在回家之后会将该博客的跟新的内容同步到wordpress上，也就是说wordpress的那个博客才是我的主站。</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>newblog_start</title>
-    <url>/2024/11/19/test/</url>
-    <content><![CDATA[<p>test pages</p>
-]]></content>
+      <tags>
+        <tag>start</tag>
+      </tags>
   </entry>
 </search>
